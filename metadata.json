@@ -1,0 +1,7 @@
+{
+  "name": "Cocinero Fantasma",
+  "description": "An AI-powered kitchen assistant that generates recipes based on photos of your ingredients.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
